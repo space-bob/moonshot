@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://space-bob.github.io/moonshot/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://space-bob.github.io/moonshot/</loc>
+</url>
+<url>
+<loc>https://space-bob.github.io/moonshot/inspired-by-a-dream.html</loc>
+<lastmod>2024-08-22T16:41:55-05:00</lastmod>
+<image:image>
+<image:loc>https://space-bob.github.io/moonshot/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg</image:loc>
+<image:title><![CDATA[The Moon - it calls to us and inspires us explore]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://space-bob.github.io/moonshot/media/posts/1/nasa-UeSpvB0Qo88-unsplash-3.jpg</image:loc>
+<image:title><![CDATA[Buzz Aldrin on the surface of the moon is our inspiration for space flight]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://space-bob.github.io/moonshot/rocket-engine-development-news.html</loc>
+<lastmod>2024-08-26T11:42:42-05:00</lastmod>
+<image:image>
+<image:loc>https://space-bob.github.io/moonshot/media/posts/6/david-torres-Ljz_Wmk7t7g-unsplash.jpg</image:loc>
+<image:title><![CDATA[Rocket Engine Development at SpaceB as we Build Technology to go to the Moon.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://space-bob.github.io/moonshot/media/posts/6/sean-pierce-NMRvHU8lSHI-unsplash.jpg</image:loc>
+<image:title><![CDATA[SpaceB rocket engine testing conducted in 2020]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://space-bob.github.io/moonshot/terms-and-condtions.html</loc>
+<lastmod>2024-08-29T13:02:10-05:00</lastmod>
+<image:image>
+<image:loc>https://space-bob.github.io/moonshot/media/posts/8/markus-winkler-EX9QVVFtQxw-unsplash.large.jpg</image:loc>
+<image:title><![CDATA[SpaceB Terms and Conditions of Use]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://space-bob.github.io/moonshot/media/posts/8/spacex-VBNb52J8Trk-unsplash.jpg</image:loc>
+<image:title><![CDATA[Spacecraft hovering above a coastline]]></image:title>
+</image:image>
+</url>
+</urlset>
