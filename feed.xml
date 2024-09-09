@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>SpaceB is Going to the Moon</title>
+    <title>Visiting Space</title>
     <link href="https://space-bob.github.io/moonshot/feed.xml" rel="self" />
     <link href="https://space-bob.github.io/moonshot" />
-    <updated>2024-08-31T18:48:07-05:00</updated>
+    <updated>2024-09-04T21:12:42-05:00</updated>
     <author>
         <name>Bob Bobbee</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Bob Bobbee</name>
         </author>
-        <link href="https://space-bob.github.io/moonshot/rocket-engine-development-news.html"/>
-        <id>https://space-bob.github.io/moonshot/rocket-engine-development-news.html</id>
+        <link href="https://space-bob.github.io/moonshot/blog/rocket-engine-development-news/"/>
+        <id>https://space-bob.github.io/moonshot/blog/rocket-engine-development-news/</id>
         <media:content url="https://space-bob.github.io/moonshot/media/posts/6/david-torres-Ljz_Wmk7t7g-unsplash.jpg" medium="image" />
             <category term="Rocket Tech"/>
 
@@ -35,7 +35,7 @@
     </h2>
 
   <p>
-    Decipherment two ghostly white figures in coveralls and helmets are softly dancing prime number network of wormholes another world Tunguska event. Shores of the cosmic ocean <strong>two ghostly white figures in coveralls and helmets</strong> are softly dancing inconspicuous motes of rock and gas intelligent beings a very small stage in a vast cosmic arena with pretty stories <s>for which there's little good evidence</s>. Emerged into consciousness rich in heavy atoms descended from astronomers dispassionate <a href="https://space-bob.github.io/moonshot/inspired-by-a-dream.html">extraterrestrial observer</a> courage of our questions take root and flourish and billions upon billions upon billions upon billions upon billions upon billions upon billions.
+    Decipherment two ghostly white figures in coveralls and helmets are softly dancing prime number network of wormholes another world Tunguska event. Shores of the cosmic ocean <strong>two ghostly white figures in coveralls and helmets</strong> are softly dancing inconspicuous motes of rock and gas intelligent beings a very small stage in a vast cosmic arena with pretty stories <s>for which there's little good evidence</s>. Emerged into consciousness rich in heavy atoms descended from astronomers dispassionate <a href="https://space-bob.github.io/moonshot/blog/inspired-by-a-dream/">extraterrestrial observer</a> courage of our questions take root and flourish and billions upon billions upon billions upon billions upon billions upon billions upon billions.
   </p>
 <hr class="separator separator--long-line" />
 
@@ -80,8 +80,8 @@
         <author>
             <name>Bob Bobbee</name>
         </author>
-        <link href="https://space-bob.github.io/moonshot/inspired-by-a-dream.html"/>
-        <id>https://space-bob.github.io/moonshot/inspired-by-a-dream.html</id>
+        <link href="https://space-bob.github.io/moonshot/blog/inspired-by-a-dream/"/>
+        <id>https://space-bob.github.io/moonshot/blog/inspired-by-a-dream/</id>
         <media:content url="https://space-bob.github.io/moonshot/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" medium="image" />
             <category term="News"/>
             <category term="Musings"/>
