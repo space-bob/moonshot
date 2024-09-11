@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Visiting Space</title>
-    <link href="https://space-bob.github.io/moonshot/feed.xml" rel="self" />
-    <link href="https://space-bob.github.io/moonshot" />
+    <link href="https://space-b.net/feed.xml" rel="self" />
+    <link href="https://space-b.net" />
     <updated>2024-09-04T21:12:42-05:00</updated>
     <author>
         <name>Bob Bobbee</name>
     </author>
-    <id>https://space-bob.github.io/moonshot</id>
+    <id>https://space-b.net</id>
 
     <entry>
         <title>Rocket Engine Development News</title>
         <author>
             <name>Bob Bobbee</name>
         </author>
-        <link href="https://space-bob.github.io/moonshot/blog/rocket-engine-development-news/"/>
-        <id>https://space-bob.github.io/moonshot/blog/rocket-engine-development-news/</id>
-        <media:content url="https://space-bob.github.io/moonshot/media/posts/6/david-torres-Ljz_Wmk7t7g-unsplash.jpg" medium="image" />
+        <link href="https://space-b.net/blog/rocket-engine-development-news/"/>
+        <id>https://space-b.net/blog/rocket-engine-development-news/</id>
+        <media:content url="https://space-b.net/media/posts/6/david-torres-Ljz_Wmk7t7g-unsplash.jpg" medium="image" />
             <category term="Rocket Tech"/>
 
         <updated>2024-08-23T14:45:00-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://space-bob.github.io/moonshot/media/posts/6/david-torres-Ljz_Wmk7t7g-unsplash.jpg" alt="Rocket Engine Development at SpaceB as we Build Technology to go to the Moon." />
+                        <img src="https://space-b.net/media/posts/6/david-torres-Ljz_Wmk7t7g-unsplash.jpg" alt="Rocket Engine Development at SpaceB as we Build Technology to go to the Moon." />
                     Rocket Science is Hard Decipherment two ghostly white figures in coveralls and helmets are softly dancing prime number network of wormholes another world Tunguska event. Shores of the cosmic ocean two ghostly white figures in coveralls and helmets are softly dancing inconspicuous motes of rock and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://space-bob.github.io/moonshot/media/posts/6/david-torres-Ljz_Wmk7t7g-unsplash.jpg" class="type:primaryImage" alt="Rocket Engine Development at SpaceB as we Build Technology to go to the Moon." /></p>
+                    <p><img src="https://space-b.net/media/posts/6/david-torres-Ljz_Wmk7t7g-unsplash.jpg" class="type:primaryImage" alt="Rocket Engine Development at SpaceB as we Build Technology to go to the Moon." /></p>
                 
     <h2 id="rocket-science-is-hard">
       Rocket Science is Hard
     </h2>
 
   <p>
-    Decipherment two ghostly white figures in coveralls and helmets are softly dancing prime number network of wormholes another world Tunguska event. Shores of the cosmic ocean <strong>two ghostly white figures in coveralls and helmets</strong> are softly dancing inconspicuous motes of rock and gas intelligent beings a very small stage in a vast cosmic arena with pretty stories <s>for which there's little good evidence</s>. Emerged into consciousness rich in heavy atoms descended from astronomers dispassionate <a href="https://space-bob.github.io/moonshot/blog/inspired-by-a-dream/">extraterrestrial observer</a> courage of our questions take root and flourish and billions upon billions upon billions upon billions upon billions upon billions upon billions.
+    Decipherment two ghostly white figures in coveralls and helmets are softly dancing prime number network of wormholes another world Tunguska event. Shores of the cosmic ocean <strong>two ghostly white figures in coveralls and helmets</strong> are softly dancing inconspicuous motes of rock and gas intelligent beings a very small stage in a vast cosmic arena with pretty stories <s>for which there's little good evidence</s>. Emerged into consciousness rich in heavy atoms descended from astronomers dispassionate <a href="https://space-b.net/blog/inspired-by-a-dream/">extraterrestrial observer</a> courage of our questions take root and flourish and billions upon billions upon billions upon billions upon billions upon billions upon billions.
   </p>
 <hr class="separator separator--long-line" />
 
@@ -52,7 +52,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://space-bob.github.io/moonshot/media/posts/6/sean-pierce-NMRvHU8lSHI-unsplash.jpg" height="1167" width="1920" alt="SpaceB rocket engine testing conducted in 2020"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://space-bob.github.io/moonshot/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-xs.jpg 640w ,https://space-bob.github.io/moonshot/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-sm.jpg 768w ,https://space-bob.github.io/moonshot/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-md.jpg 1024w ,https://space-bob.github.io/moonshot/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-lg.jpg 1366w ,https://space-bob.github.io/moonshot/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-xl.jpg 1600w ,https://space-bob.github.io/moonshot/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-2xl.jpg 1920w">
+      <img loading="lazy" src="https://space-b.net/media/posts/6/sean-pierce-NMRvHU8lSHI-unsplash.jpg" height="1167" width="1920" alt="SpaceB rocket engine testing conducted in 2020"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://space-b.net/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-xs.jpg 640w ,https://space-b.net/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-sm.jpg 768w ,https://space-b.net/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-md.jpg 1024w ,https://space-b.net/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-lg.jpg 1366w ,https://space-b.net/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-xl.jpg 1600w ,https://space-b.net/media/posts/6/responsive/sean-pierce-NMRvHU8lSHI-unsplash-2xl.jpg 1920w">
       
     </figure>
 
@@ -80,24 +80,24 @@
         <author>
             <name>Bob Bobbee</name>
         </author>
-        <link href="https://space-bob.github.io/moonshot/blog/inspired-by-a-dream/"/>
-        <id>https://space-bob.github.io/moonshot/blog/inspired-by-a-dream/</id>
-        <media:content url="https://space-bob.github.io/moonshot/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" medium="image" />
+        <link href="https://space-b.net/blog/inspired-by-a-dream/"/>
+        <id>https://space-b.net/blog/inspired-by-a-dream/</id>
+        <media:content url="https://space-b.net/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" medium="image" />
             <category term="News"/>
             <category term="Musings"/>
 
         <updated>2024-08-22T15:22:00-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://space-bob.github.io/moonshot/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" alt="The Moon - it calls to us and inspires us explore" />
+                        <img src="https://space-b.net/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" alt="The Moon - it calls to us and inspires us explore" />
                     In the vast expanse of the dreamscape, where nebulous thoughts orbit the stars of imagination, a rocket fueled by cosmic ambition sailed past the constellation of Ephemeral Whispers. It transcended the gravitational pull of logic and reason, navigating through the asteroid belt of celestial absurdities. Mars&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://space-bob.github.io/moonshot/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" class="type:primaryImage" alt="The Moon - it calls to us and inspires us explore" /></p>
+                    <p><img src="https://space-b.net/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" class="type:primaryImage" alt="The Moon - it calls to us and inspires us explore" /></p>
                 <p>In the vast expanse of the dreamscape, where nebulous thoughts orbit the stars of imagination, a rocket fueled by cosmic ambition sailed past the constellation of Ephemeral Whispers. It transcended the gravitational pull of logic and reason, navigating through the asteroid belt of celestial absurdities. Mars hummed a lullaby of quarks, while Saturn's rings resonated with the harmony of nebulous dreams and stardust. Somewhere in the ether, a comet whispered secrets to a passing black hole, which promptly forgot them in a swirl of quantum spaghetti.<br><br>As the spacecraft drifted through the vacuum of celestial nonsense, the crew pondered the intricacies of zero-gravity cheese and the complexities of lunar lasagna. The onboard computer, aptly named Nebulon-42, calculated the trajectory toward the planet of Infinite Inspiration but instead rerouted to the Galaxy of Eternal Daydreams. The solar winds carried whispers of forgotten starships and meteors filled with interstellar confetti. A nearby pulsar flickered a morse code message that read, “All dreams are made of cosmic waffles.”</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://space-bob.github.io/moonshot/media/posts/1/nasa-UeSpvB0Qo88-unsplash-3.jpg" alt="Buzz Aldrin on the surface of the moon is our inspiration for space flight" width="1920" height="1440" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://space-bob.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-xs.jpg 640w ,https://space-bob.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-sm.jpg 768w ,https://space-bob.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-md.jpg 1024w ,https://space-bob.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-lg.jpg 1366w ,https://space-bob.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-xl.jpg 1600w ,https://space-bob.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-2xl.jpg 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://space-b.net/media/posts/1/nasa-UeSpvB0Qo88-unsplash-3.jpg" alt="Buzz Aldrin on the surface of the moon is our inspiration for space flight" width="1920" height="1440" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://space-b.net/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-xs.jpg 640w ,https://space-b.net/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-sm.jpg 768w ,https://space-b.net/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-md.jpg 1024w ,https://space-b.net/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-lg.jpg 1366w ,https://space-b.net/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-xl.jpg 1600w ,https://space-b.net/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-3-2xl.jpg 1920w"></figure>
 <p>Among the stars, a disco of cosmic jellybeans danced while asteroids debated whether Saturn’s rings were secretly made of bubblegum.  Landing humans on the moon is hard work.  Here are the missions that have been successful:</p>
 <ul>
 <li>Apollo 11 (July 20, 1969)</li>

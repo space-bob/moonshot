@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://space-bob.github.io/moonshot/sitemap.xml
+Sitemap: https://space-b.net/sitemap.xml
